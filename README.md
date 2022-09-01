@@ -1,4 +1,4 @@
 # FMWC
 Financial Modeling World Cup
 
-![alt text](C:\Users\mikeb\OneDrive\Pictures\Screenshots\FMWC_Instructions)
+![alt text](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Instructions.png)
