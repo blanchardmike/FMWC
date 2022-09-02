@@ -7,7 +7,7 @@ Financial Modeling World Cup
 ![alt text](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Rules.png)
 
 First round, easy enough. OFFSET the reference 
-
+![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Rules.png)
 by the remainder of the number using MOD(X, 19)
 
 XLOOKUP its value
