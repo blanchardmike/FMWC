@@ -16,4 +16,4 @@ Board                                                    |Reference             
 
 XLOOKUP its value
 
-
+![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1_formula.png)
