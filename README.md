@@ -6,7 +6,7 @@ Financial Modeling World Cup
 
 ![alt text](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Rules.png)
 
-First round, easy enough. OFFSET the reference (Top Left Cherry, in this case)
+First round, easy enough. Question is to evaluate the points given by the "roll" number. This is how many times it "spins" through top to bottom. 
 
 Board                                                                               |Reference
 :----------------------------------------------------------------------------------:|:----------------------------------------------------------------:
