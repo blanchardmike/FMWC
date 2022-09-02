@@ -12,6 +12,7 @@ Board                                                    |Reference             
 :-------------------------------------------------------:|:-----------------------------------------:|:------------------------------------------------------:
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true)|![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reel.png)|![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reward.png)
 
-Knowing the roll starts at top left Cherries, we OFFSET that ($locked$) reference point down by MOD(X, 19), and XLOOKUP the result.
+The roll starts at top left Cherries, we OFFSET that ($locked$) reference point down by MOD(X, 19), and XLOOKUP the result. 
+Knowing the Reward table will be referenced frequently, 
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1_formula.png)
