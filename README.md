@@ -10,7 +10,7 @@ First round, easy enough. The question is to evaluate the points given by the "r
 
 Board                                                    |Reference                                   |Reward
 :-------------------------------------------------------:|:-----------------------------------------:|:------------------------------------------------------:
-![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true) |![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reel.png) |![](|https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reward.png)|
+![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true)|![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reel.png)|![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reward.png)
 
 
 
