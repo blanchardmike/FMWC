@@ -10,4 +10,4 @@ First round, easy enough. OFFSET the reference by the remainder of the number us
 
 XLOOKUP its value
 
-!(https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true)
+![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true)
