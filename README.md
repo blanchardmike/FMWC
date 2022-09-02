@@ -8,10 +8,12 @@ Financial Modeling World Cup
 
 First round, easy enough. OFFSET the reference (Top Left Cherry, in this case)
 
-![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reel.png)
+Board                                                                               |Reference
+:----------------------------------------------------------------------------------:|:----------------------------------------------------------------:
+![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true) |![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reel.png)
 
 by the remainder of the number in blue column 1 using MOD(X, 19)
 
 XLOOKUP its value
 
-![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true)
+
