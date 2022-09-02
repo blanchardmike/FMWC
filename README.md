@@ -6,7 +6,7 @@ Financial Modeling World Cup
 
 ![alt text](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Rules.png)
 
-First round, easy enough. Question is to evaluate the points given by the "roll" number. This is how many times it "spins" through top to bottom. 
+First round, easy enough. The question is to evaluate the points given by the "roll" number, which is how many times the given number, (35 in Example 1) "spins" through top to bottom, starting at <cherry> 
 
 Board                                                                               |Reference
 :----------------------------------------------------------------------------------:|:----------------------------------------------------------------:
