@@ -22,3 +22,5 @@ The 'TRUE' column is referencing the answers table, correct or not.
 Second round, interesting change. 
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2.png)
+
+![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2_formula.png)
