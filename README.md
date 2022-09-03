@@ -19,7 +19,7 @@ The 'TRUE' column is referencing the answers table, correct or not.
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1_formula.png)
 
-Second round, interesting change. 
+Second round, interesting change. Same idea
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2.png)
 
