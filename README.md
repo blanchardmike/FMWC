@@ -19,10 +19,12 @@ The 'TRUE' column is referencing the answers table, correct or not.
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1_formula.png)
 
-Second round, interesting change. Same idea
+Second round, interesting change. Same idea as above.
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2.png)
 
+We have to make one important change, adding MOD(G60 and H60 for 
+
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2_formula.png)
 
-We
+
