@@ -24,3 +24,5 @@ Second round, interesting change. Same idea
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2.png)
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2_formula.png)
+
+We
