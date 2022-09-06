@@ -23,7 +23,7 @@ Second round, interesting change. Same idea as above.
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2.png)
 
-We have to make one important change, adding MOD(G60 and H60 for 
+We have to make one important change, adding MOD(G60 + H60) for turn 2 and MOD(G60 + H60 + I60) for turn 3, as every roll starts from the position of the last. 
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q2_formula.png)
 
