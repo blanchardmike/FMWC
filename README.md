@@ -12,7 +12,7 @@ Board                                                    |Reference             
 :-------------------------------------------------------:|:-----------------------------------------:|:------------------------------------------------------:
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q1.png?raw=true)|![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reel.png)|![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Reward.png)
 
-The roll starts at top left Cherries, we OFFSET that ($locked$) reference point down by MOD(X, 19), and XLOOKUP the result, bell, highlighted Green, 30 points. 
+The roll starts at top left Cherries, we OFFSET that reference cell by the remainder of Roll/19, using MOD(X, 19). Then we XLOOKUP the result, bell, highlighted Green, to get 30 points. 
 Knowing the Reward table will be referenced frequently, 'symbol' and 'amount' named ranges were given to the Item and Base Pts columns of the Rewards table.
 
 The 'TRUE' column is referencing the answers table, correct or not. 
