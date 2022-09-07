@@ -42,7 +42,10 @@ we can count the occurences in this new field with COUNTIF()
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_countif.png)
 
-Then square the count by the value, satisfying the rule duplicates are multiplied together
+Then square the count by the value, satisfying the rule duplicates are multiplied together.
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_square.png)
+
+This results in errors, so SUM() function will not work. we use AGGREGATE() to ignore error cell and choose the 5 column field. 
+
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_aggregate.png)
