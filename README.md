@@ -29,6 +29,9 @@ We have to make one important change, adding MOD(G60 + H60) for turn 2 and MOD(G
 
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3.png)
+
+Starts with a simple XLOOKUP as before.
+
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_lookup.png)
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_transpose.png)
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_countif.png)
