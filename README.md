@@ -36,8 +36,10 @@ Starts with a simple XLOOKUP as before.
 
 Wanting to list the unique values, but UNIQUE() only works vertically, so had to TRANSPOSE() the values to count uniques. Since I wanted to keep them all on the same row for future use, TRANSPOSE() them back. 
 
-
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_transpose.png)
+
+we can count the occurences in this new field with COUNTIF()
+
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_countif.png)
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_square.png)
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_aggregate.png)
