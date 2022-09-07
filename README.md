@@ -33,6 +33,10 @@ We have to make one important change, adding MOD(G60 + H60) for turn 2 and MOD(G
 Starts with a simple XLOOKUP as before.
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_lookup.png)
+
+Wanting to list the unique values, but UNIQUE() only works vertically, so had to TRANSPOSE() the values to count uniques. Since I wanted to keep them all on the same row for future use, TRANSPOSE() them back. 
+
+
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_transpose.png)
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_countif.png)
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_square.png)
