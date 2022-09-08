@@ -51,5 +51,8 @@ This results in errors, so SUM() function will not work. we use AGGREGATE() to i
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_aggregate.png)
 
-Question 4. Back to needing OFFSET to determin points.
+Question 4. Similar to last question, but need to OFFSET the the roll number to determin points, as in Question 3.
+
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q4.png)
+
+
