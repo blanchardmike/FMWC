@@ -51,5 +51,5 @@ This results in errors, so SUM() function will not work. we use AGGREGATE() to i
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_aggregate.png)
 
-
+Question 4. Back to needing OFFSET to determin points.
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q4.png)
