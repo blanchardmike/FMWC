@@ -50,3 +50,6 @@ Then square the count by the value, satisfying the rule duplicates are multiplie
 This results in errors, so SUM() function will not work. we use AGGREGATE() to ignore error cell and select the entire 5 column field. 
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_aggregate.png)
+
+
+![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q4.png)
