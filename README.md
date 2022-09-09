@@ -41,6 +41,8 @@ Wanting to list the unique values, but UNIQUE() only works vertically, so had to
 
 we can count the occurences in this new field with COUNTIF()
 
+
+
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_countif.png)
 
 Then square the count by the value, satisfying the rule duplicates are multiplied together.
