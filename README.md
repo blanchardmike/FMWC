@@ -49,7 +49,8 @@ Then square the count by the value, satisfying the rule duplicates are multiplie
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_square.png)
 
-This results in errors, so SUM() function will not work. we use AGGREGATE() to ignore error cell and select the entire 5 column field. 
+This results in errors, so SUM() function will not work. we use AGGREGATE() to ignore error cell and select the entire 5 column field..
+
 
 ![](https://github.com/blanchardmike/FMWC/blob/main/Resources/FMWC_Q3_aggregate.png)
 
